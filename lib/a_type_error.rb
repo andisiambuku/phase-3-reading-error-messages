@@ -1,3 +1,4 @@
 1 + 1
 
-1 + "is the loneliest number"
+#the line below throws a type error
+# 1 + "is the loneliest number"

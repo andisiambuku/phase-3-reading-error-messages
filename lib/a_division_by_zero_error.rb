@@ -1,3 +1,4 @@
 42 / 6
 
-42 / 0
+#the line below throws a division error
+# 42 / 0

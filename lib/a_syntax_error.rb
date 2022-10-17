@@ -1,3 +1,4 @@
 x = 1
 
-x = 
+#the line below throws a syntax error bacause the vb needs a value assigned to it
+# x = 
